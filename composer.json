@@ -1,0 +1,19 @@
+{
+  "name": "gearsoftware/yii2-timeline",
+  "description": "Timeline Module For Yii2",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "José Peña",
+      "email": "joepa37@gmail.com"
+    }
+  ],
+  "require": {
+    "gearsoftware/yii2-core": "@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "gearsoftware\\timeline\\": "src"
+    }
+  }
+}
